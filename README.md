@@ -112,3 +112,23 @@ Welcome to the official development roadmap for **Code Shikhi** (codeshikhi.jrsk
 ---
 
 ## 🗺️ Step-by-Step Implementation Overview
+
+---
+
+## 📚 Essential References & Source Documentation
+
+### 📑 Core Docs
+*   **React Documentation:** [react.dev](https://react.dev)
+*   **Django Core Framework:** [docs.djangoproject.com](https://docs.djangoproject.com)
+*   **Django REST Framework:** [django-rest-framework.org](https://www.django-rest-framework.org)
+*   **Bootstrap Style Guides:** [getbootstrap.com](https://getbootstrap.com)
+*   **Docker Container Library:** [docs.docker.com](https://docs.docker.com)
+*   **Kubernetes Cluster Guides:** [kubernetes.io/docs](https://kubernetes.io/docs)
+
+### 🎨 Recommended UI Libraries
+*   **Material-UI (MUI):** [mui.com](https://mui.com)
+*   **Ant Design UI:** [ant.design](https://ant.design)
+*   **Chakra UI Core:** [chakra-ui.com](https://chakra-ui.com)
+
+---
+💡 *Developed with ❤️ for the **Code Shikhi** platform. Happy Coding!*
