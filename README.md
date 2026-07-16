@@ -1,6 +1,6 @@
 # 🚀 Code Shikhi — Full-Stack Web Application Development Roadmap
 
-Welcome to the official development roadmap for **Code Shikhi** (codeshikhi.jrskilltoearn.com). This comprehensive 3-month guide outlines the technology stack, weekly learning/implementation modules, and production-ready deployment strategies designed to scale our platform for beginner developers.
+Welcome to the official development roadmap for **Code Shikhi** (codeshikhi.info). This comprehensive 3-month guide outlines the technology stack, weekly learning/implementation modules, and production-ready deployment strategies designed to scale our platform for beginner developers.
 
 ---
 
@@ -131,4 +131,4 @@ Welcome to the official development roadmap for **Code Shikhi** (codeshikhi.jrsk
 *   **Chakra UI Core:** [chakra-ui.com](https://chakra-ui.com)
 
 ---
-💡 *Developed with ❤️ for the **Code Shikhi** platform. Happy Coding!*
+💡 *Developed with ❤️ for the **Code Shikhi** platform. Visit us at [codeshikhi.info](https://codeshikhi.info). Happy Coding!*
